@@ -1,0 +1,9 @@
+c:\users\just1_000\documents\visual studio 2013\Projects\AutoClicker_by_just1ce\AutoClicker_by_just1ce\bin\Debug\AutoClicker_by_just1ce.exe.config
+c:\users\just1_000\documents\visual studio 2013\Projects\AutoClicker_by_just1ce\AutoClicker_by_just1ce\bin\Debug\AutoClicker_by_just1ce.exe
+c:\users\just1_000\documents\visual studio 2013\Projects\AutoClicker_by_just1ce\AutoClicker_by_just1ce\bin\Debug\AutoClicker_by_just1ce.pdb
+c:\users\just1_000\documents\visual studio 2013\Projects\AutoClicker_by_just1ce\AutoClicker_by_just1ce\obj\Debug\AutoClicker_by_just1ce.csprojResolveAssemblyReference.cache
+c:\users\just1_000\documents\visual studio 2013\Projects\AutoClicker_by_just1ce\AutoClicker_by_just1ce\obj\Debug\AutoClicker_by_just1ce.Properties.Resources.resources
+c:\users\just1_000\documents\visual studio 2013\Projects\AutoClicker_by_just1ce\AutoClicker_by_just1ce\obj\Debug\AutoClicker_by_just1ce.csproj.GenerateResource.Cache
+c:\users\just1_000\documents\visual studio 2013\Projects\AutoClicker_by_just1ce\AutoClicker_by_just1ce\obj\Debug\AutoClicker_by_just1ce.exe
+c:\users\just1_000\documents\visual studio 2013\Projects\AutoClicker_by_just1ce\AutoClicker_by_just1ce\obj\Debug\AutoClicker_by_just1ce.pdb
+c:\users\just1_000\documents\visual studio 2013\Projects\AutoClicker_by_just1ce\AutoClicker_by_just1ce\obj\Debug\AutoClicker_by_just1ce.MainForm.resources
