@@ -123,7 +123,7 @@ namespace AutoClicker_by_just1ce
         }
         private void bk_worker_play_record_Start()
         {
-            if (!bk_worker_eternal.IsBusy)
+            if (!bk_worker_play_record.IsBusy)
             {
                 bk_worker_play_record.RunWorkerAsync();
             }
